@@ -1,0 +1,17 @@
+/*
+ * A time picker for jQuery
+ * Based on original timePicker by Sam Collet (http://www.texotela.co.uk) -
+ * copyright (c) 2006 Sam Collett (http://www.texotela.co.uk)
+ *
+ * Based on extended timePicker by Anders Fajerson
+ * Copyright (c) 2009 Anders Fajerson (http://perifer.se)
+ 
+ * Dual licensed under the MIT and GPL licenses.
+ * Copyright (c) 2010 Scott Motte
+ * @name     timePicker
+ * @version  0.3
+ * @author   Scott Motte (http://spitfiresky.com)
+ * @example  $("#mytime").timePicker();
+ * @example  $("#mytime").timePicker({step:30, startTime:"15:00", endTime:"18:00"});
+ * @example  if you need to refresh it's position just call $("#mytime").timePicker('refreshPosition');
+*/
