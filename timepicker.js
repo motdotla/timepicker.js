@@ -14,6 +14,8 @@
  * @example  $("#mytime").timePicker();
  * @example  $("#mytime").timePicker({step:30, startTime:"15:00", endTime:"18:00"});
  * @example  if you need to refresh it's position just call $("#mytime").timePicker('refreshPosition');
+ 
+ * http://github.com/scottmotte/timepicker.js
 */
  
 (function($){
